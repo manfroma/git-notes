@@ -17,9 +17,24 @@
     - check history of commits. 
 
 - 
-    git remote add origin 
+    git remote add origin ....
+
+    - ***origin*** it's just a naming, the remote repository can be named something else. 
+    - 
 
 - 
     git push --set-upsteam origin master 
 
+
+checkout hashcomming            -- checkout to a specifit commit 
+checkout branch-name            -- checkout to a branch 
     
+    - 
+
+branch
+    - display a list of local branches 
+branch -r
+    - a list of remote branches
+switch branch-name
+    - switch between branches 
+
