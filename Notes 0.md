@@ -78,6 +78,7 @@ ssh-keygen -t rsa -b 4096 -C 'email-address-used-on-git@some.com'
     - therw 
 
 add 'file-name'
+
 3. commit -m 'message' 
 
 4.  git push origin master 
@@ -85,5 +86,6 @@ add 'file-name'
 - Error: origin is not a git repository. 
 
 5. remote add origin git@.....git
+
 6. git push -u origin master 
 

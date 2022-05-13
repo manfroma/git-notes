@@ -15,3 +15,11 @@
 
     git log 
     - check history of commits. 
+
+- 
+    git remote add origin 
+
+- 
+    git push --set-upsteam origin master 
+
+    
